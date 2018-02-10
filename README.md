@@ -16,9 +16,16 @@ docker run -it -p 9000:9000 myconda
 
 5. Click the "home" folder
 
-6. For Pandas Task,  click on "pandas_notebook.ipynb" then execute the code sequentially.
+## For Data Science Task
+6. click on "solution_to_data_science.ipynb" then execute the code sequentially.
 
-7. NOTE!!!
+## For Docker task one (pandas)
+7. click on "pandas_notebook.ipynb" then execute the code sequentially.
+
+## For Docker task two (spark)
+8. click on "spark_notebook.ipynb" then execute the code sequentially.
+
+### NOTE!!!
 For Spark Task, this line of code has been changed from
 ```
 csv_dataframe = spark.read.csv("file:///csv_path",header=True)
