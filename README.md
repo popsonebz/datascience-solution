@@ -34,3 +34,13 @@ to
 ```
 csv_dataframe = spark.read.csv(csv_path, header=True)
 ```
+# SUMMARY
+The following were observed in the dataset of step 6:
+1. It describes the spending habit of genders across different age.
+2. It has missing values in the gender feature.
+3. There were some typographical errors in the spelling of "MALE".
+4. The dataset had outliers in the age values such as 0, 201, .... These ages are not realistic.
+5. Majority of the ammount spent by the realistic age (20 to 29) were less than 300.
+6. It was observed that the average spending of males does not change significantly with increasing age.
+7. There is a steady increase in the average spending of females as the age increases.
+8. Though the average spending of males across the age range is greater than that of females, the difference reduces as the age incerases.
