@@ -53,4 +53,5 @@ The following were observed in the dataset of step 6:
 # Business Insight
 1. Investing in products whose price is less than 300 will yeild more sales when targeting the age group 20 to 29.
 2. The males within this age group on an average can afford a little more than the females.
-3. The company should investigate more into the outliers as there is a great deal spendings there.
+3. The females have the tendency to spend more than the females as the age progresses.
+4. The company should investigate more into the outliers as there is a great deal spendings there.
