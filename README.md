@@ -1,6 +1,12 @@
 # data science-solution 
 
 1. clone the repository
+```
+git clone https://github.com/popsonebz/datascience-solution.git
+```
+```
+cd datascience-solution
+```
 
 2. Run the command:
 ```
@@ -43,4 +49,8 @@ The following were observed in the dataset of step 6:
 5. Majority of the ammount spent by the realistic age (20 to 29) were less than 300.
 6. It was observed that the average spending of males does not change significantly with increasing age.
 7. There is a steady increase in the average spending of females as the age increases.
-8. Though the average spending of males across the age range is greater than that of females, the difference reduces as the age incerases.
+8. Though the average spending of males across the age range is greater than that of females, the difference reduces as the age increases.
+# Business Insight
+1. Investing in products whose price is less than 300 will yeild more sales when targeting the age group 20 to 29.
+2. The males within this age group on an average can afford a little more than the females.
+3. The company should investigate more into the outliers as there is a great deal spendings there.
